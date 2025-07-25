@@ -19,27 +19,67 @@ A community-driven collection **Claude Code agents** and sub-agents—turn your 
 
 ## 📚 How to Use
 
-### 1. Clone an Agent Repo
+Quick-Start Recipes
+
+1. Create a ProjectLocal Sub-Agent
 ```bash
-git clone https://github.com/derek-opdee/subagent-example-script.git ~/.claude/agents/dee-pack
-# Or, for 28 ready-made agents:
+mkdir -p .claude/agents
+cat > .claude/agents/code-reviewer.md <<'EOF'
+---
+name: code-reviewer
+description: "Use proactively to review new pull requests for style, security, and test coverage."
+tools: grep, view, edit, mcp-gemini
+---
+You are a senior code reviewer. Provide inline comments and suggest fixes...
+EOF
+```
+
+Any request that includes “review” language will now trigger this agent automatically.
+
+2. Clone Community Packs
+```bash
+# Download Derek Dee’s power pack
+mkdir -p ~/.claude/agents
+curl -sL https://raw.githubusercontent.com/derek-opdee/subagent-example-script/main/sub-agent-tech-debt-finder-fixer.md -o ~/.claude/agents/tech-debt.md
+
+# Download W. Shobson’s 28-agent bundle
 git clone https://github.com/wshobson/agents ~/.claude/agents/wh-bundle
 ```
-Or just copy individual `.md` agent files into your project’s `.claude/agents/` directory.
 
-### 2. View or Create Agents
-```bash
-claude /agents
+3. Invoke Explicitly
+```text
+> Use the test-generator sub agent to create Jest tests for the new Cart module
 ```
-You’ll see your agents listed with descriptions and tool scopes. Create your own with the interactive prompt or by dropping in new Markdown files!
 
-### 3. Invoke Agents
-Tell Claude to use them—automatically or explicitly:
+or launch several agents at once:
 
 ```text
-> Use the test-generator sub agent to write Jest tests for cart.js
-> Run security audit in parallel with bundle analysis (spawn 2 agents)
+> Spawn 3 subagents:
+> 1. Security audit
+> 2. Lint & style check
+> 3. Bundle size analysis
 ```
+
+Claude will queue and run up to 10 tasks in parallel.
+
+Directory Structuring Tips
+
+- Project agents (.claude/agents/) take priority over user-level agents (~/.claude/agents/).
+- Prefix agent files with numbers (like 01_, 02_) to sort their order in the /agents listing.
+- Keep system prompts brief; long role descriptions increase token use.
+- Limit access to only the necessary tools for each agent to maintain security and efficiency.
+
+Common Pitfalls \& Solutions
+
+
+| Issue | Cause | Solution |
+| :-- | :-- | :-- |
+| Sub-agent ignores task | Vague description | Use explicit trigger phrases like “use proactively for X” |
+| Token blow-ups | Overly long system prompts | Reuse boilerplate; make role descriptions concise |
+| No output merge | Each agent authors a full plan | Add a step where the main agent merges all findings |
+| Max parallelism at 10 | System-imposed task cap | Batch remaining tasks; more start as others finish |
+
+
 
 ### 4. Mix, Match, and Share!
 Mix and match roles, tweak YAML front-matter, and contribute your own agents back to this directory!
