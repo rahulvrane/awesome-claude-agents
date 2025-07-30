@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rahulvrane-awesome-claude-agents-badge.png)](https://mseep.ai/app/rahulvrane-awesome-claude-agents)
+
 # Awesome Claude Agents 🚀
 
 A community-driven collection **Claude Code agents** and sub-agents—turn your Claude instance into an unstoppable team of domain experts! This repo catalogs plug-and-play agents, agent frameworks, and orchestration recipes contributed by the community and curated from public sources.
