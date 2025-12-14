@@ -19,6 +19,12 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | 28-Subagent Power Pack | Repo | Security, compliance, changelogs, SQL tuning & more (ready-to-use agents) | [wshobson/agents] |
 | Claude Code Dev Kit | Meta-Repo | Sets up docs, multi-agent templates, hooks & MCP server integration | [peterkrueck/Claude-Code-Development-Kit] |
 
+## 🌍 Community Repositories
+
+We have compiled a comprehensive list of **community-contributed agent repositories** in a separate file. This includes massive collections, specialized toolsets, and niche agents.
+
+👉 **[See the full list of Community Agent Repositories](COMMUNITY_AGENTS.md)**
+
 ## 🆕 Latest & Featured Agent Collections (August 2025)
 
 ### **Production-Ready Agent Collections**
@@ -147,7 +153,7 @@ git clone https://github.com/wshobson/agents ~/.claude/agents/wh-production
 # AI development team (26 agents)
 git clone https://github.com/vijaythecoder/awesome-claude-agents ~/.claude/agents/ai-team
 
-# Comprehensive collection (36 agents) 
+# Comprehensive collection (36 agents)
 git clone https://github.com/davepoon/claude-code-subagents-collection ~/.claude/agents/comprehensive
 ```
 
@@ -234,11 +240,11 @@ Mix and match roles, tweak YAML front-matter, and contribute your own agents bac
 
 ## 🚀 The Claude Agent Ecosystem (August 2025)
 
-This directory represents the complete ecosystem as of August 2025. The Claude Code agent community continues to grow rapidly, with new repositories, tools, and patterns emerging weekly. 
+This directory represents the complete ecosystem as of August 2025. The Claude Code agent community continues to grow rapidly, with new repositories, tools, and patterns emerging weekly.
 
 ### **Future Developments & Emerging Trends**
 - **Agent Marketplaces**: Community-driven agent sharing platforms
-- **Cross-Platform Integration**: Agents working across different development environments  
+- **Cross-Platform Integration**: Agents working across different development environments
 - **Self-Improving Agents**: Agents that modify and optimize themselves
 - **Multi-Model Orchestration**: Different Claude models for different agent roles
 - **Real-Time Collaboration**: Multiple users working with shared agent teams
@@ -258,14 +264,14 @@ MIT License for this directory. Individual agent files may contain separate copy
 
 ## Credits
 
-Big thanks to everyone building and open-sourcing specialist Claude agents—your work powers this community!  
+Big thanks to everyone building and open-sourcing specialist Claude agents—your work powers this community!
 Want to be featured? Suggest your repo or agent file via PR or issue.
 
-: https://github.com/derek-opdee/subagent-example-script  
-: https://github.com/wshobson/agents  
+: https://github.com/derek-opdee/subagent-example-script
+: https://github.com/wshobson/agents
 : https://github.com/peterkrueck/Claude-Code-Development-Kit
 
-> “The most powerful Claude agents feel like hiring a team of experts—but you get code reviews, migrations, and tests done in minutes.”  
+> “The most powerful Claude agents feel like hiring a team of experts—but you get code reviews, migrations, and tests done in minutes.”
 > – Community Contributor
 
 *Happy hacking! Add, remix, and power up your Claude!*
