@@ -47,7 +47,6 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | **[iannuttall/claude-agents](https://github.com/iannuttall/claude-agents)** | 7 | Code refactoring, content writing, frontend design, PRD writing |
 | **[zhsama/claude-sub-agent](https://github.com/zhsama/claude-sub-agent)** | Workflow system | Spec-driven development pipeline with quality gates |
 
-
 ### **Claude Code Skills**
 
 Skills are reusable knowledge modules that enhance Claude Code's capabilities without spawning sub-agents. They live in `.claude/skills/` and provide domain expertise, best practices, and proven strategies.
