@@ -47,6 +47,15 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | **[iannuttall/claude-agents](https://github.com/iannuttall/claude-agents)** | 7 | Code refactoring, content writing, frontend design, PRD writing |
 | **[zhsama/claude-sub-agent](https://github.com/zhsama/claude-sub-agent)** | Workflow system | Spec-driven development pipeline with quality gates |
 
+### **Claude Code Skills**
+
+Skills are reusable knowledge modules that enhance Claude Code's capabilities without spawning sub-agents. They live in `.claude/skills/` and provide domain expertise, best practices, and proven strategies.
+
+| Repository | Focus | Key Features |
+|---|---|---|
+| **[sstklen/infinite-gratitude](https://github.com/sstklen/infinite-gratitude)** | Multi-Agent Research | Orchestrates research scouts that continuously discover and bring back valuable findings |
+| **[sstklen/claude-api-cost-optimization](https://github.com/sstklen/claude-api-cost-optimization)** | Cost Optimization | Save 50-90% on Claude API costs with model tiering, caching strategies, and smart batching |
+
 ## 📚 Essential Guides & Documentation
 
 ### **Official Documentation**
