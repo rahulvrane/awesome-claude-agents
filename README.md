@@ -47,6 +47,12 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | **[iannuttall/claude-agents](https://github.com/iannuttall/claude-agents)** | 7 | Code refactoring, content writing, frontend design, PRD writing |
 | **[zhsama/claude-sub-agent](https://github.com/zhsama/claude-sub-agent)** | Workflow system | Spec-driven development pipeline with quality gates |
 
+### **CLI & Skill Frameworks**
+
+| Repository | Purpose | Key Features |
+|---|---|---|
+| **[daxaur/openpaw](https://github.com/daxaur/openpaw)** | Personal assistant CLI | 38 skills via `npx pawmode`, includes Telegram, Discord, Obsidian, daily briefings. No daemon, MIT licensed |
+
 ## 📚 Essential Guides & Documentation
 
 ### **Official Documentation**
