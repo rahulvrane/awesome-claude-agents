@@ -30,6 +30,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | **[vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)** | 26 | Jul 2025 | AI development team with Tech Lead, Analyst, and specialized domain experts |
 | **[davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection)** | 36 | Jul 2025 | Comprehensive collection with auto-delegation and best practices guide |
 | **[charles-adedotun/claude-code-sub-agents](https://github.com/charles-adedotun/claude-code-sub-agents)** | Full ecosystem | Jul 2025 | Workflow-stage based system mapping entire dev lifecycle |
+| **[ajhcs/healthcare-agents](https://github.com/ajhcs/healthcare-agents)** | 51 | Mar 2026 | Healthcare administration specialists with MHA-level expertise across 10 divisions (revenue cycle, compliance, quality, clinical ops, payer relations, health IT, and more) |
 
 ### **Specialized Frameworks & Tools**
 
@@ -87,6 +88,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 - **Cloud**: AWS, GCP, Azure architects and troubleshooters
 - **Data**: ML engineers, data scientists, analytics specialists
 - **Security**: Penetration testers, compliance auditors, crypto experts
+- **Healthcare**: Healthcare administration specialists—revenue cycle, compliance, quality management, clinical operations, payer relations, health IT ([ajhcs/healthcare-agents](https://github.com/ajhcs/healthcare-agents))
 
 ### **Business & Marketing**
 - **Content**: Copywriters, blog authors, social media managers
