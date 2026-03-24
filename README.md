@@ -245,6 +245,11 @@ This directory represents the complete ecosystem as of August 2025. The Claude C
 
 For the latest updates, monitor the GitHub repositories and Reddit communities listed in the Community & Platforms section above.
 
+## XVARY Stock Research
+
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+
+
 ## 🤝 Contributing
 
 - Fork this repo, add your `my-unique-agent.md` files to the main directory, and open a PR.
