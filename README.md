@@ -49,6 +49,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 
 ## 📚 Essential Guides & Documentation
 
+- **[claude-code-blueprint](https://github.com/faizkhairi/claude-code-blueprint)** - Reference architecture with specialized agents (Opus/Sonnet/Haiku tiering), natural-language skills, lifecycle hooks, path-scoped rules, starter presets, and battle stories. Includes cross-tool mapping for Cursor/Codex/Gemini/Windsurf.
 ### **Official Documentation**
 - **[Anthropic Sub-Agents Docs](https://docs.anthropic.com/en/docs/claude-code/sub-agents)** - Official reference with YAML templates
 - **[Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices)** - Anthropic's official workflow guide
