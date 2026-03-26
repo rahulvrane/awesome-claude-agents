@@ -18,6 +18,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | Performance Optimizer | Sub-Agent | Analyzes bundle size, boosts DB/index/query speed, optimizes React | [derek-opdee/subagent-example-script] |
 | 28-Subagent Power Pack | Repo | Security, compliance, changelogs, SQL tuning & more (ready-to-use agents) | [wshobson/agents] |
 | Claude Code Dev Kit | Meta-Repo | Sets up docs, multi-agent templates, hooks & MCP server integration | [peterkrueck/Claude-Code-Development-Kit] |
+| AuraKit | Skill Framework | 33 modes, 6-layer security, 23 hooks, 8 langs, 75% token savings. Cross-platform | [smorky850612/Aurakit](https://github.com/smorky850612/Aurakit) |
 
 ## 🆕 Latest & Featured Agent Collections (August 2025)
 
