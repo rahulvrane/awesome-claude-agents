@@ -46,6 +46,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 |---|---|---|
 | **[iannuttall/claude-agents](https://github.com/iannuttall/claude-agents)** | 7 | Code refactoring, content writing, frontend design, PRD writing |
 | **[zhsama/claude-sub-agent](https://github.com/zhsama/claude-sub-agent)** | Workflow system | Spec-driven development pipeline with quality gates |
+| **[koinod/koino-skills](https://github.com/koinod/koino-skills)** | 18 | Business & sales: sales call intelligence, content engine, client acquisition, fleet orchestration, proposals, objection drills |
 
 ## 📚 Essential Guides & Documentation
 
