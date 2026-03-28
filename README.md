@@ -39,7 +39,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | **[webdevtodayjason/sub-agents](https://github.com/webdevtodayjason/sub-agents)** | CLI Manager | NPM installable, context-forge integration, bulk management |
 | **[baryhuang/claude-code-by-agents](https://github.com/baryhuang/claude-code-by-agents)** | Desktop app | Multi-agent workspace, @agent mentions, local+remote agents |
 | **[Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm)** | Orchestration | Multiple Claude sessions in parallel, systematic codebase improvement |
-| **[chernistry/bernstein](https://github.com/chernistry/bernstein)** | Multi-agent orchestration | Spawns Claude Code, Codex CLI, and Gemini CLI in parallel on isolated git worktrees; deterministic Python scheduler with zero LLM coordination tokens; test-verified auto-commits |
+| **[chernistry/bernstein](https://github.com/chernistry/bernstein)** | Multi-agent orchestration | Parallel agents (Claude, Codex, Gemini) on git worktrees; deterministic scheduler; test-verified auto-commits |
 
 ### **Individual Contributor Collections**
 
