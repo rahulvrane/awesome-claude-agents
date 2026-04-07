@@ -46,6 +46,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 |---|---|---|
 | **[iannuttall/claude-agents](https://github.com/iannuttall/claude-agents)** | 7 | Code refactoring, content writing, frontend design, PRD writing |
 | **[zhsama/claude-sub-agent](https://github.com/zhsama/claude-sub-agent)** | Workflow system | Spec-driven development pipeline with quality gates |
+| [PA·co Framework](https://github.com/PenguinAlleyApps/paco-framework) | 3-16 | 2026 | Markdown-first, zero-code multi-agent OS. File-based dispatch, institutional memory, quality gates, emergency halt system. MIT licensed. |
 
 ## 📚 Essential Guides & Documentation
 
