@@ -89,6 +89,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 - **Security**: Penetration testers, compliance auditors, crypto experts
 
 ### **Business & Marketing**
+- **[cognyai/claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills)**: AI marketing skills — SEO Audit, Landing Page Review, Competitor Analysis, Ad Copy Writer, Lead Qualification. 5 free skills + premium via Cogny MCP servers
 - **Content**: Copywriters, blog authors, social media managers
 - **Sales**: Lead generators, email automators, CRM specialists
 - **Analytics**: Business analysts, growth hackers, conversion optimizers
