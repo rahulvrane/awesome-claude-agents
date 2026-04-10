@@ -18,7 +18,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | Performance Optimizer | Sub-Agent | Analyzes bundle size, boosts DB/index/query speed, optimizes React | [derek-opdee/subagent-example-script] |
 | 28-Subagent Power Pack | Repo | Security, compliance, changelogs, SQL tuning & more (ready-to-use agents) | [wshobson/agents] |
 | Claude Code Dev Kit | Meta-Repo | Sets up docs, multi-agent templates, hooks & MCP server integration | [peterkrueck/Claude-Code-Development-Kit] |
-
+| Security Sentinel | Skill / Auditor | A pre-installation forensic security auditor tool for AI Agent Skills. | [Mamoruuh/security-sentinel](https://github.com/Mamoruuh/security-sentinel) |
 ## 🆕 Latest & Featured Agent Collections (August 2025)
 
 ### **Production-Ready Agent Collections**
