@@ -53,6 +53,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 - **[Anthropic Sub-Agents Docs](https://docs.anthropic.com/en/docs/claude-code/sub-agents)** - Official reference with YAML templates
 - **[Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices)** - Anthropic's official workflow guide
 - **[Common Workflows](https://docs.anthropic.com/en/docs/claude-code/common-workflows)** - Task-specific patterns and examples
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ### **Community Tutorials & Deep Dives**
 
