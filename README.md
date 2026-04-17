@@ -98,6 +98,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 
 ### **Agent Sharing Platforms**
 - **[subagents.cc](https://www.subagents.cc/)** - Dedicated Claude agent directory
+- **[Not Human Search](https://nothumansearch.ai/)** - Agent-first search engine indexing 8,000+ MCP servers and agent-readable services ranked by agentic readiness. Install as MCP: `claude mcp add --transport http nothumansearch https://nothumansearch.ai/mcp`
 - **Reddit Communities**: r/ClaudeAI, r/programming - Active sharing and discussion
 - **GitHub Topics**: #claude-agents, #claude-code, #subagents
 
