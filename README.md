@@ -10,6 +10,8 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 
 ## 🌟 Featured Agents & Repos
 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - World's #1 self-evolving AI coding brain with 22 neural modules, infinite memory, predictive bug detection, Code DNA fingerprinting. Works with Claude Code, Cursor, Copilot.
+
 | Name | Type | Role / Highlights | Link |
 |---|---|---|---|
 | Tech Debt Finder & Fixer | Sub-Agent | Scans codebase for debt, refactors, and automates fixes with test validation | [derek-opdee/subagent-example-script] |
