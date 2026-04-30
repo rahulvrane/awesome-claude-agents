@@ -45,6 +45,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | Repository | Sub-Agents | Specialization |
 |---|---|---|
 | **[iannuttall/claude-agents](https://github.com/iannuttall/claude-agents)** | 7 | Code refactoring, content writing, frontend design, PRD writing |
+| **[rockscy/shipcrew](https://github.com/rockscy/shipcrew)** | 6 | Repo-maintenance focus: PR review, issue triage, release notes, test failure investigation, dep updates, flake hunting. Bilingual EN+中文, structured output formats with confidence calibration. |
 | **[zhsama/claude-sub-agent](https://github.com/zhsama/claude-sub-agent)** | Workflow system | Spec-driven development pipeline with quality gates |
 
 ## 📚 Essential Guides & Documentation
