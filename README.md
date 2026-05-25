@@ -45,6 +45,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | Repository | Sub-Agents | Specialization |
 |---|---|---|
 | **[iannuttall/claude-agents](https://github.com/iannuttall/claude-agents)** | 7 | Code refactoring, content writing, frontend design, PRD writing |
+| **[ndesv21/socialclaw](https://github.com/ndesv21/socialclaw)** | 1 | Social media publishing across 13 platforms (X, LinkedIn, Instagram, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, Pinterest) via a single workspace API key |
 | **[zhsama/claude-sub-agent](https://github.com/zhsama/claude-sub-agent)** | Workflow system | Spec-driven development pipeline with quality gates |
 
 ## 📚 Essential Guides & Documentation
