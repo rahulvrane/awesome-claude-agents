@@ -16,7 +16,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | Architecture Reviewer | Sub-Agent | Detects circular deps, generates diagrams, flags anti-patterns | [derek-opdee/subagent-example-script] |
 | Test Generator | Sub-Agent | Suggests, writes, and integrates tests for uncovered paths | [derek-opdee/subagent-example-script] |
 | Performance Optimizer | Sub-Agent | Analyzes bundle size, boosts DB/index/query speed, optimizes React | [derek-opdee/subagent-example-script] |
-| shipping-coach | Sub-Agent | Pre-merge checklist over the diff — debug residue, hardcoded secrets, broken types, tracked junk, missing migration rollbacks; reports blockers with file:line, never autofixes | [allcanprophesy-ops/claude-code-shipping-coach](https://github.com/allcanprophesy-ops/claude-code-shipping-coach) |
+| Shipping Coach | Sub-Agent | Pre-merge checklist over the diff — debug residue, hardcoded secrets, broken types, tracked junk, missing migration rollbacks; reports blockers with file:line, never autofixes | [allcanprophesy-ops/claude-code-shipping-coach](https://github.com/allcanprophesy-ops/claude-code-shipping-coach) |
 | 28-Subagent Power Pack | Repo | Security, compliance, changelogs, SQL tuning & more (ready-to-use agents) | [wshobson/agents] |
 | Claude Code Dev Kit | Meta-Repo | Sets up docs, multi-agent templates, hooks & MCP server integration | [peterkrueck/Claude-Code-Development-Kit] |
 
