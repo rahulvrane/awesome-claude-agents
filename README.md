@@ -46,6 +46,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 |---|---|---|
 | **[iannuttall/claude-agents](https://github.com/iannuttall/claude-agents)** | 7 | Code refactoring, content writing, frontend design, PRD writing |
 | **[zhsama/claude-sub-agent](https://github.com/zhsama/claude-sub-agent)** | Workflow system | Spec-driven development pipeline with quality gates |
+| **[xmacna/funcionario-digital-agentget](https://github.com/xmacna/funcionario-digital-agentget)** | 1 | Funcionario Digital design for AI employee workflows, handoff, CRM fields, and rollout guardrails |
 
 ## 📚 Essential Guides & Documentation
 
