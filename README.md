@@ -39,6 +39,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | **[webdevtodayjason/sub-agents](https://github.com/webdevtodayjason/sub-agents)** | CLI Manager | NPM installable, context-forge integration, bulk management |
 | **[baryhuang/claude-code-by-agents](https://github.com/baryhuang/claude-code-by-agents)** | Desktop app | Multi-agent workspace, @agent mentions, local+remote agents |
 | **[Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm)** | Orchestration | Multiple Claude sessions in parallel, systematic codebase improvement |
+| **[huiyu9144/huiyu-safe-ai](https://github.com/huiyu9144/huiyu-safe-ai)** | Security guard | Lightweight AI security guard for install/download commands. Blocks 68+ malicious packages, verifies identity, scans code in <1s with zero overhead. |
 
 ### **Individual Contributor Collections**
 
@@ -62,7 +63,6 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | **[Mastering Claude Code: The Sub-agent Pattern](https://enting.org/mastering-claude-code-sub-agent/)** | Enting's Blog | Hidden features, prompt templates, practical benefits |
 | **[How I use Claude Code](https://bagerbach.com/blog/how-i-use-claude-code/)** | Christian B.B. Houmann | CLAUDE.md, commands, extended thinking, project-specific patterns |
 | **[Claude Code's Custom Agent Framework Changes Everything](https://dev.to/therealmrmumba/claude-codes-custom-agent-framework-changes-everything-4o4m)** | dev.to | Enterprise applications, security, parallel execution |
-  - [huiyu-safe-ai](https://github.com/huiyu9144/huiyu-safe-ai) - Lightweight AI security guard for install/download commands. Blocks 68+ malicious packages, verifies identity, scans code in <1s with zero overhead. Built from a real supply chain attack.
 
 ### **Video Tutorials**
 
