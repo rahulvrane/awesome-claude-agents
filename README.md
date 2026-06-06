@@ -98,6 +98,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 
 ### **Agent Sharing Platforms**
 - **[subagents.cc](https://www.subagents.cc/)** - Dedicated Claude agent directory
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - Trust-scoring MCP server for autonomous agents on Solana: free preflight trust check + signed V5 trust receipt via USDC micropayment. Tools: `resolve_agent`, `score_agent`, `get_trust_receipt`, `verify_trust_receipt`. [MCP](https://intel.twzrd.xyz/mcp) · [Registered at MCP Registry](https://registry.modelcontextprotocol.io)
 - **Reddit Communities**: r/ClaudeAI, r/programming - Active sharing and discussion
 - **GitHub Topics**: #claude-agents, #claude-code, #subagents
 
