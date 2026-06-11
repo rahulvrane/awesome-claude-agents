@@ -98,6 +98,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 
 ### **Agent Sharing Platforms**
 - **[subagents.cc](https://www.subagents.cc/)** - Dedicated Claude agent directory
+- **[CreatorSkills](https://creatorskills.co)** - Marketplace of 30+ downloadable AI skills for content creators — YouTube scripting, sponsorship analysis, content repurposing, and audience growth. Skills use the open SKILL.md format and work with Claude, ChatGPT, and 20+ platforms.
 - **Reddit Communities**: r/ClaudeAI, r/programming - Active sharing and discussion
 - **GitHub Topics**: #claude-agents, #claude-code, #subagents
 
