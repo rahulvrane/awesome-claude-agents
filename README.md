@@ -36,6 +36,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | Repository | Purpose | Key Features |
 |---|---|---|
 | **[hesreallyhim/awesome-claude-code-agents](https://github.com/hesreallyhim/awesome-claude-code-agents)** | Orchestration framework | Clean interface, sophisticated orchestration logic |
+| **[agentlas-ai/Hephaestus](https://github.com/agentlas-ai/Hephaestus)** | Agent OS / orchestration runtime | Local-first agent and skill packaging, routing, memory, security gates, and Hephaestus Network MCP for Claude Code, Codex, and Cursor |
 | **[webdevtodayjason/sub-agents](https://github.com/webdevtodayjason/sub-agents)** | CLI Manager | NPM installable, context-forge integration, bulk management |
 | **[baryhuang/claude-code-by-agents](https://github.com/baryhuang/claude-code-by-agents)** | Desktop app | Multi-agent workspace, @agent mentions, local+remote agents |
 | **[Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm)** | Orchestration | Multiple Claude sessions in parallel, systematic codebase improvement |
