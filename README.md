@@ -93,6 +93,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 - **Sales**: Lead generators, email automators, CRM specialists
 - **Analytics**: Business analysts, growth hackers, conversion optimizers
 - **Support**: Customer service, FAQ creators, documentation writers
+- **SEO & Paid Ads**: **[nowork-studio/NotFair](https://github.com/nowork-studio/NotFair)** — open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads (~2.9k stars, MIT). Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Skill areas: [seo/](https://github.com/nowork-studio/NotFair/tree/main/seo), [google-ads/](https://github.com/nowork-studio/NotFair/tree/main/google-ads), [meta-ads/](https://github.com/nowork-studio/NotFair/tree/main/meta-ads).
 
 ## 🌐 Community & Platforms
 
