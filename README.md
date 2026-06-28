@@ -32,6 +32,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | **[charles-adedotun/claude-code-sub-agents](https://github.com/charles-adedotun/claude-code-sub-agents)** | Full ecosystem | Jul 2025 | Workflow-stage based system mapping entire dev lifecycle |
 | **[thespamer/claude-code-arsenal](https://github.com/thespamer/claude-code-arsenal)** | 6 | Jun 2026 | Opinionated subagents with strict scope, read-only defaults, working demo project with seeded issues, real run output validation |
 | **[thespamer/claude-code-arsenal](https://github.com/thespamer/claude-code-arsenal)** | 6 | Jun 2026 | Opinionated subagents with strict scope, read-only defaults, working demo project with seeded issues, real run output validation |
+| **[thespamer/claude-code-arsenal](https://github.com/thespamer/claude-code-arsenal)** | 6 | Jun 2026 | Opinionated subagents with strict scope, read-only defaults, working demo project with seeded issues, real run output validation |
 
 ### **Specialized Frameworks & Tools**
 
