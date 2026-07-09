@@ -39,6 +39,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | **[webdevtodayjason/sub-agents](https://github.com/webdevtodayjason/sub-agents)** | CLI Manager | NPM installable, context-forge integration, bulk management |
 | **[baryhuang/claude-code-by-agents](https://github.com/baryhuang/claude-code-by-agents)** | Desktop app | Multi-agent workspace, @agent mentions, local+remote agents |
 | **[Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm)** | Orchestration | Multiple Claude sessions in parallel, systematic codebase improvement |
+| **[madarco/agentbox](https://github.com/madarco/agentbox)** | Parallel sandboxing / orchestration | Runs Claude Code / Codex / OpenCode in parallel, each in its own sandboxed VM (local Docker or cloud); sub-1s checkpoint startup, git creds kept on host, MIT |
 
 ### **Individual Contributor Collections**
 
