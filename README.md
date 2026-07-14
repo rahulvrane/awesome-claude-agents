@@ -46,6 +46,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 |---|---|---|
 | **[iannuttall/claude-agents](https://github.com/iannuttall/claude-agents)** | 7 | Code refactoring, content writing, frontend design, PRD writing |
 | **[zhsama/claude-sub-agent](https://github.com/zhsama/claude-sub-agent)** | Workflow system | Spec-driven development pipeline with quality gates |
+| **[bufferBrew/craftsman](https://github.com/bufferBrew/craftsman)** | 10 | Engineering discipline: minimal-diff coding, root-cause debugging, recurring-bug detection, orchestrator with evidence-gated pipeline; installable Claude Code plugin |
 
 ## 📚 Essential Guides & Documentation
 
