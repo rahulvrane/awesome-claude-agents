@@ -39,6 +39,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | **[webdevtodayjason/sub-agents](https://github.com/webdevtodayjason/sub-agents)** | CLI Manager | NPM installable, context-forge integration, bulk management |
 | **[baryhuang/claude-code-by-agents](https://github.com/baryhuang/claude-code-by-agents)** | Desktop app | Multi-agent workspace, @agent mentions, local+remote agents |
 | **[Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm)** | Orchestration | Multiple Claude sessions in parallel, systematic codebase improvement |
+| **[yarin-hochman1/oss-distributor](https://github.com/yarin-hochman1/oss-distributor)** | OSS distribution | Scores your project against awesome-lists/registries for fit, then opens PRs only after explicit approval. Install: `git clone https://github.com/yarin-hochman1/oss-distributor ~/.claude/agents/oss-distributor` |
 
 ### **Individual Contributor Collections**
 
