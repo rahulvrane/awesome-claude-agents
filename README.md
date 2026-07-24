@@ -26,6 +26,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | Repository | Sub-Agents | Updated | Highlights |
 |---|---|---|---|
 | **[0xfurai/claude-code-subagents](https://github.com/0xfurai/claude-code-subagents)** | 100+ | Aug 2025 | Massive collection with uniform prompt format, MIT licensed, multi-language support |
+| **[cdeust/zetetic-team-subagents](https://github.com/cdeust/zetetic-team-subagents)** | 120 | Jul 2026 | 97 genius reasoning patterns + 23 team specialists; every agent bound to a 15-section engineering standard (sourced claims, commit-time gates, task-definition-as-contract); multi-model Advisor/Orchestrator loops; [Cortex](https://github.com/cdeust/Cortex) memory integration |
 | **[wshobson/agents](https://github.com/wshobson/agents)** | 48 | Jul 2025 | Production-ready specialists with orchestration patterns and advanced workflows |
 | **[vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)** | 26 | Jul 2025 | AI development team with Tech Lead, Analyst, and specialized domain experts |
 | **[davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection)** | 36 | Jul 2025 | Comprehensive collection with auto-delegation and best practices guide |
