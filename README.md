@@ -12,12 +12,12 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 
 | Name | Type | Role / Highlights | Link |
 |---|---|---|---|
-| Tech Debt Finder & Fixer | Sub-Agent | Scans codebase for debt, refactors, and automates fixes with test validation | [derek-opdee/subagent-example-script] |
-| Architecture Reviewer | Sub-Agent | Detects circular deps, generates diagrams, flags anti-patterns | [derek-opdee/subagent-example-script] |
-| Test Generator | Sub-Agent | Suggests, writes, and integrates tests for uncovered paths | [derek-opdee/subagent-example-script] |
-| Performance Optimizer | Sub-Agent | Analyzes bundle size, boosts DB/index/query speed, optimizes React | [derek-opdee/subagent-example-script] |
-| 28-Subagent Power Pack | Repo | Security, compliance, changelogs, SQL tuning & more (ready-to-use agents) | [wshobson/agents] |
-| Claude Code Dev Kit | Meta-Repo | Sets up docs, multi-agent templates, hooks & MCP server integration | [peterkrueck/Claude-Code-Development-Kit] |
+| Tech Debt Finder & Fixer | Sub-Agent | Scans codebase for debt, refactors, and automates fixes with test validation | [derek-codebridge/subagent-example-script](https://github.com/derek-codebridge/subagent-example-script) |
+| Architecture Reviewer | Sub-Agent | Detects circular deps, generates diagrams, flags anti-patterns | [derek-codebridge/subagent-example-script](https://github.com/derek-codebridge/subagent-example-script) |
+| Test Generator | Sub-Agent | Suggests, writes, and integrates tests for uncovered paths | [derek-codebridge/subagent-example-script](https://github.com/derek-codebridge/subagent-example-script) |
+| Performance Optimizer | Sub-Agent | Analyzes bundle size, boosts DB/index/query speed, optimizes React | [derek-codebridge/subagent-example-script](https://github.com/derek-codebridge/subagent-example-script) |
+| 28-Subagent Power Pack | Repo | Security, compliance, changelogs, SQL tuning & more (ready-to-use agents) | [wshobson/agents](https://github.com/wshobson/agents) |
+| Claude Code Dev Kit | Meta-Repo | Sets up docs, multi-agent templates, hooks & MCP server integration | [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) |
 
 ## 🆕 Latest & Featured Agent Collections (August 2025)
 
@@ -39,6 +39,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | **[webdevtodayjason/sub-agents](https://github.com/webdevtodayjason/sub-agents)** | CLI Manager | NPM installable, context-forge integration, bulk management |
 | **[baryhuang/claude-code-by-agents](https://github.com/baryhuang/claude-code-by-agents)** | Desktop app | Multi-agent workspace, @agent mentions, local+remote agents |
 | **[Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm)** | Orchestration | Multiple Claude sessions in parallel, systematic codebase improvement |
+| **[Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper)** | Agent Skill & MCP | X research, extraction, monitoring, webhooks, and approval-gated publishing. Not affiliated with X Corp. |
 
 ### **Individual Contributor Collections**
 
