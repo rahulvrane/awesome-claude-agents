@@ -269,3 +269,5 @@ Want to be featured? Suggest your repo or agent file via PR or issue.
 > – Community Contributor
 
 *Happy hacking! Add, remix, and power up your Claude!*
+
+- [`super-agents`](https://github.com/jamessunheart/super-agents-pack) — by [@jamessunheart](https://github.com/jamessunheart) — Three sub-agents that turn a real-world outcome into an accountable, transferable Build Card: `super-build` (outcome → signed Card), `super-vendor-agent` (AI-disclosed provider outreach, verbatim ledger), `super-steward` (release conditions + cross-session state). Never pays/books/speaks-as-human; every close handed up. MIT.
