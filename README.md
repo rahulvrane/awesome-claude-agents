@@ -30,6 +30,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | **[vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)** | 26 | Jul 2025 | AI development team with Tech Lead, Analyst, and specialized domain experts |
 | **[davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection)** | 36 | Jul 2025 | Comprehensive collection with auto-delegation and best practices guide |
 | **[charles-adedotun/claude-code-sub-agents](https://github.com/charles-adedotun/claude-code-sub-agents)** | Full ecosystem | Jul 2025 | Workflow-stage based system mapping entire dev lifecycle |
+| **[kaazyxx/ultimate-dev-toolkit](https://github.com/kaazyxx/ultimate-dev-toolkit)** | 120 | Sep 2026 | Security-first universal toolkit: 120 agents + 520 skills + 176 commands + 28 hooks + 4 MCP connectors; honest tool detection, never fakes support |
 
 ### **Specialized Frameworks & Tools**
 
