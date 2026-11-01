@@ -91,6 +91,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 ### **Business & Marketing**
 - **Content**: Copywriters, blog authors, social media managers
 - **Sales**: Lead generators, email automators, CRM specialists
+  - **[Mach GTM MCP](https://github.com/verma6uc/mach-gtm-mcp)** — B2B outbound sales MCP server: ICP definition, prospect research with buying signals, lead scoring (0-100), personalised cold email/LinkedIn drafting, and multi-touch sequence generation. `npx mach-gtm-mcp`
 - **Analytics**: Business analysts, growth hackers, conversion optimizers
 - **Support**: Customer service, FAQ creators, documentation writers
 
