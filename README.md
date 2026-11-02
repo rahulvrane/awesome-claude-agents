@@ -39,6 +39,7 @@ The Claude Code agent ecosystem has exploded with hundreds of specialized sub-ag
 | **[webdevtodayjason/sub-agents](https://github.com/webdevtodayjason/sub-agents)** | CLI Manager | NPM installable, context-forge integration, bulk management |
 | **[baryhuang/claude-code-by-agents](https://github.com/baryhuang/claude-code-by-agents)** | Desktop app | Multi-agent workspace, @agent mentions, local+remote agents |
 | **[Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm)** | Orchestration | Multiple Claude sessions in parallel, systematic codebase improvement |
+| **[Quinnod345/ponder](https://github.com/Quinnod345/ponder)** | Deliberation loop & review gate | Coverage-gated 4-perspective review (skeptic, builder, dreamer, empath) with ledger convergence |
 
 ### **Individual Contributor Collections**
 
